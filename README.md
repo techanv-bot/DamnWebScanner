@@ -2,7 +2,7 @@
 Another web vulnerabilities scanner, this extension works on Chrome and Opera.
 The extension is working on the background and will notify you if it finds any vulnerability.
 
-![Image of a noticiation](https://github.com/techanvconsulting/DamnWebScanner/blob/master/Screens/Notification.png?raw=true)
+![Image of a noticiation](https://github.com/techanv-bot/DamnWebScanner/blob/master/Screens/Notification.png?raw=true)
 
 Currently it scans for:
 - SQL Injection : Time based SQLi scanner using polyglot vectors (MySQL, SQLite, Oracle, Postgresql, SQL Server)
@@ -43,7 +43,7 @@ var config_server = "http://127.0.0.1:8000";
 
 You can try the Error SQL, Blind SQL, LFI with Damn Vulnerable Web App.
 The SQL Injection scanner was also tested on https://pentesterlab.com/badges/essential.    
-![Image of DVWA Result](https://github.com/techanvconsulting/DamnWebScanner/blob/master/Screens/Results%20DVWA.png?raw=true)
+![Image of DVWA Result](https://github.com/techanv-bot/DamnWebScanner/blob/master/Screens/Results%20DVWA.png?raw=true)
 
 
 ## Debugging
